@@ -5,6 +5,7 @@ body{margin:0;background:#0f1724;color:#e6eef8}
 .map-list{list-style:none;padding:1rem 2rem;display:flex;flex-wrap:wrap;gap:1rem;justify-content:center}
 .map-list a{display:block;padding:.9rem 1.1rem;background:#0b1320;border-radius:8px;color:#bcd0ee;text-decoration:none;border:1px solid rgba(255,255,255,.03)}
 .map-list a:hover{background:#0f2540;color:#fff}
+.map-list a.active{background:#1e40af;color:#fff;border-color:#1e40af}
 .container{max-width:1100px;margin:1.5rem auto;padding:0 1rem}
 .section{margin-bottom:1.5rem}
 .section h2{margin:.25rem 0 .75rem 0;color:#dff0ff}
